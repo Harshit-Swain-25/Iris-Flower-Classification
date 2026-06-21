@@ -43,13 +43,13 @@ Project Folder/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Harshit-Swain-25/Iris-Flower-Classification.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd your-repository-name
+cd Iris-Flower-Classification
 ```
 
 ### 3. Install the required libraries
